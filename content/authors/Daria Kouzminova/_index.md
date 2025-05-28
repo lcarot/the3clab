@@ -4,7 +4,7 @@ title: Daria Kouzminova
 
 # Full name (for SEO)
 first_name: Daria
-last_name: WKouzminovau
+last_name: Kouzminovau
 
 # Username (this should match the folder name)
 authors:
